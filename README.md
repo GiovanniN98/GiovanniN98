@@ -19,7 +19,7 @@ I'm interested in the following fields:
 
 ### Some Projects I Worked On
 
-- [`Explainable Pareto Fronts`](https://github.com/GiovanniN98/ExplainableMOOP) : Thesis Project on applying XAI to Multi-Objective Optimization problems' Pareto Fronts
+- [`Explainable Pareto Fronts`](https://github.com/GiovanniN98/Explainable-Pareto-Fronts) : Thesis Project on applying XAI to Multi-Objective Optimization problems' Pareto Fronts
 
 - [`Deep RL Survey`](https://github.com/Menta99/Advanced_Deep_Learning_Models_and_Methods-Menta-Nisti) : A Survey on Deep Reinforcement Learning Models applied to Zero-Sum Games
   
