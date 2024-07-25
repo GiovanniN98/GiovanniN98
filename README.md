@@ -1,6 +1,6 @@
 ### Hi, I'm Giovanni
 
-I'm about to complete my MSc in Computer Science and Engineering at Politecnico di Milano. (07/2024)\
+I recently completed my MSc in Computer Science and Engineering at Politecnico di Milano.\
 I'm interested in the following fields:
 
 <a href="https://www.flaticon.com/authors/becris"><img src="Assets/ai.png" valign="middle" width="35"></a> Artificial Intelligence
